@@ -1,0 +1,13 @@
+ 
+header {background-color: blueviolet;
+box-sizing: border-box;height: 100px;
+ border-radius: 20px; 
+color: #000;
+text-align: center;
+}
+
+body 
+    {background-image: url(fome.webp);
+   background-position: unset;
+   background-size: cover;
+}
